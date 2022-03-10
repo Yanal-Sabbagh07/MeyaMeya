@@ -11,6 +11,7 @@ export default function Home() {
           name="description"
           content="A Local Egyption restaurant in Berlin"
         />
+
         <link rel="icon" href="/photo.jpg" />
       </Head>
       Home Page
